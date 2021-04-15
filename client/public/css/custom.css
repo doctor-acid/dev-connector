@@ -1,0 +1,36 @@
+.shadow{
+    box-shadow: 0px 4px 5px 3px #ccc ;
+}
+
+.border{
+    border: 1px solid #777;
+}
+.border-rounded{
+    border: 1px solid #777;
+    border-radius: 8px;
+}
+.centered{
+    text-align: center;
+}
+div.grey{
+    background-color: #999
+}
+div.greyer{
+    background-color: #ccc
+}
+h1.grey h2.grey h3.grey p.grey{
+    background-color: #777
+}
+h1.greyer h2.greyer h3.greyer p.greyer{
+    background-color: #aaa
+}
+button:disabled{
+    background-color: #888;
+    color: red;
+}
+/* .top-container{
+    position: fixed;
+    padding-bottom: 10px;
+    margin-top: 0px;
+    margin-bottom: 4rem;
+} */

@@ -1,0 +1,6 @@
+/node_modules
+config/
+devconnector/
+devconnector_html_theme/
+/client/debug.log
+/client/node_modules
